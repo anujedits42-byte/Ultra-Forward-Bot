@@ -45,12 +45,7 @@ async def start(client, message):
     caption=text,
     reply_markup=reply_markup
 )
-    text=Translation.START_TXT.format(user.mention)
-    await message.reply_text(
-        text=text,
-        reply_markup=reply_markup,
-        quote=True
-    )
+
 
 
 
