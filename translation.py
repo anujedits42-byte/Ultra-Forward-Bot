@@ -11,19 +11,18 @@ import os
 from config import Config
 
 class Translation(object):
-  
-PHOTO_URL = "https://i.ibb.co/rRN8GMmP/7168219724-28791.jpg"
 
-  START_TXT = """Hey {}
+    PHOTO_URL = "https://i.ibb.co/rRN8GMmP/7168219724-28791.jpg"
+
+    START_TXT = """Hey {}
 
 ➻ I Am A Advanced Auto Forward Bot
-  
-➻ I Can Forward All Message From One Channel To Another Channel 
-  
-➻ Click Help Button To Know More About Me
-  
-<b>Bot Is Made By @anujedits76</b>"""
 
+➻ I Can Forward All Message From One Channel To Another Channel
+
+➻ Click Help Button To Know More About Me
+
+<b>Bot Is Made By @anujedits76</b>"""
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
 
