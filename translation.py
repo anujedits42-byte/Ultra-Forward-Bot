@@ -11,6 +11,9 @@ import os
 from config import Config
 
 class Translation(object):
+  
+PHOTO_URL = "https://i.ibb.co/rRN8GMmP/7168219724-28791.jpg"
+
   START_TXT = """Hey {}
 
 ➻ I Am A Advanced Auto Forward Bot
