@@ -40,6 +40,7 @@ async def start(client, message):
     jishubotz = await message.reply_sticker("CAACAgUAAxkBAAECEEBlLA-nYcsWmsNWgE8-xqIkriCWAgACJwEAAsiUZBTiPWKAkUSmmh4E")
     await asyncio.sleep(2)
     await jishubotz.delete()
+    text = Translation.START_TXT.format(user.mention)
     await message.reply_photo(
     photo=Translation.PHOTO_URL,
     caption=text,
