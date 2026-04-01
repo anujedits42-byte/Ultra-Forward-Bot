@@ -24,7 +24,7 @@ class Translation(object):
 
 <b>Bot Is Made By @anujedits76</b>"""
 
-HELP_TXT = """<b><u>🛠️ Help</u></b>
+    HELP_TXT = """<b><u>🛠️ Help</u></b>
 
 <b><u>📚 Available Commands :</u></b>
 ⏣ __/start - Check I'm Alive__ 
@@ -34,17 +34,16 @@ HELP_TXT = """<b><u>🛠️ Help</u></b>
 ⏣ __/reset - Reset Your Settings__
 
 <b><u>💢 Features :</u></b>
-► __Forward Message From Public Channel To Your Channel Without Admin Permission. If The Channel Is Private Need Admin Permission__
-► __Forward Message From Private Channel To Your Channel By Using Userbot(User Must Be Member In There)__
+► __Forward Message From Public Channel To Your Channel Without Admin Permission__
+► __Forward Message From Private Channel Using Userbot__
 ► __Custom Caption__
 ► __Custom Button__
 ► __Support Restricted Chats__
 ► __Skip Duplicate Messages__
-► __Filter Type Of Messages__
-► __Skip Messages Based On Extensions & Keywords & Size__
+► __Filter Messages__
 """
 
- HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
+    HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
   
 ► __Add A Bot Or Userbot__
 ► __Add Atleast One To Channel (Your Bot/Userbot Must Be Admin In There)__
