@@ -22,7 +22,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By <a href="https://t.me/Anujedits76">Anuj</a></b>"""
+<b>Bot Is Made By <a href="https://t.me/anujedits76">Anuj</a></b>"""
 
 
     HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -60,7 +60,7 @@ class Translation(object):
 <b>📢 Channel :</b> <a href='https://t.me/anujedits76'>Anuj Kumar</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Anujedits76'>Anuj Kumar</a>
 
-<b>♻️ Bot Made By : <a href="https://t.me/Anujedits76">Anuj</a></b>"""
+<b>♻️ Bot Made By : <a href="https://t.me/anujedits76">Anuj</a></b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
