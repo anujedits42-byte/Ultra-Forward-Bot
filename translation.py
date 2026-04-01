@@ -60,7 +60,7 @@ class Translation(object):
 <b>📢 Channel :</b> <a href='https://t.me/anujedits76'>Anuj Kumar</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Anujedits76'>Anuj Kumar</a>
 
-<b>♻️ Bot Made By :</b> @Anujedits76"""
+<b>♻️ Bot Made By : <a href="https://t.me/Anujedits76">Anuj</a></b>"""
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
