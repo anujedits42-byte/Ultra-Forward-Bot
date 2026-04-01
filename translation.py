@@ -17,14 +17,15 @@ class Translation(object):
     START_TXT = """Hey {}
 
 ➻ I Am A Advanced Auto Forward Bot
-
-➻ I Can Forward All Message From One Channel To Another Channel
-
+  
+➻ I Can Forward All Message From One Channel To Another Channel 
+  
 ➻ Click Help Button To Know More About Me
+  
+<b>Bot Is Made By @Madflix_Bots</b>"""
 
-<b>Bot Is Made By @anujedits76</b>"""
 
-    HELP_TXT = """<b><u>🛠️ Help</u></b>
+  HELP_TXT = """<b><u>🛠️ Help</b></u>
 
 <b><u>📚 Available Commands :</u></b>
 ⏣ __/start - Check I'm Alive__ 
@@ -33,17 +34,18 @@ class Translation(object):
 ⏣ __/settings - Configure Your Settings__
 ⏣ __/reset - Reset Your Settings__
 
-<b><u>💢 Features :</u></b>
-► __Forward Message From Public Channel To Your Channel Without Admin Permission__
-► __Forward Message From Private Channel Using Userbot__
+<b><u>💢 Features :</b></u>
+► __Forward Message From Public Channel To Your Channel Without Admin Permission. If The Channel Is Private Need Admin Permission__
+► __Forward Message From Private Channel To Your Channel By Using Userbot(User Must Be Member In There)__
 ► __Custom Caption__
 ► __Custom Button__
 ► __Support Restricted Chats__
 ► __Skip Duplicate Messages__
-► __Filter Messages__
+► __Filter Type Of Messages__
+► __Skip Messages Based On Extensions & Keywords & Size__
 """
-
-    HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
+  
+  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
   
 ► __Add A Bot Or Userbot__
 ► __Add Atleast One To Channel (Your Bot/Userbot Must Be Admin In There)__
