@@ -22,7 +22,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Madflix_Bots</b>"""
+<b>Bot Is Made By @Anujedits76</b>"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
