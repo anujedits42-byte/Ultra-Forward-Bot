@@ -71,13 +71,7 @@ class Translation(object):
 <b>🔃 Forwardings :</b> <code>{}</code>
 """
   
-  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
-
-
-
-HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
-
-
+    HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
 
     FROM_MSG = "<b><u>Set Source Chat</></>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
     TO_MSG = "<b><u>Choose Target Chat</u></b>\n\nChoose Your Target Chat From The Given Buttons.\n/cancel - To Cancel This Process"
