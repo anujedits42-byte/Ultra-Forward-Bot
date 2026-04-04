@@ -56,7 +56,6 @@ Messages__"""
     FROM_MSG = "<b><u>Set Source Chat</u></b>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
   
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
-
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
@@ -82,7 +81,6 @@ Messages__"""
     CANCEL = "Process Cancelled Succefully !"
     BOT_DETAILS = "<b><u>📄 Bot Details</u></b>\n\n<b>➣ Name :</b> <code>{}</code>\n<b>➣ Bot ID :</b> <code>{}</code>\n<b>➣ Username :</b> @{}"
     USER_DETAILS = "<b><u>📄 UserBot Details</u></b>\n\n<b>➣ Name :</b> <code>{}</code>\n<b>➣ User ID :</b> <code>{}</code>\n<b>➣ Username :</b> @{}"
-    
     TEXT = """<b><u>Forward Status</u></b>
   
 <b>🕵 Fetch Message :</b> <code>{}</code>
