@@ -11,6 +11,9 @@ import os
 from config import Config
 
 class Translation(object):
+
+  PHOTO_URL = "https://files.catbox.moe/b6vtfh.jpg"
+  
   START_TXT = """Hᴇʏ {}
 
 ➻ I Aᴍ A Aᴅᴠᴀɴᴄᴇᴅ Aᴜᴛᴏ Fᴏʀᴡᴀʀᴅ Bᴏᴛ
