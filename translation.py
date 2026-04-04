@@ -11,7 +11,7 @@ import os
 from config import Config
 
 class Translation(object):
-  START_TXT = """Hey {}
+  START_TXT = """Hᴇʏ {}
 
 ➻ I Aᴍ A Aᴅᴠᴀɴᴄᴇᴅ Aᴜᴛᴏ Fᴏʀᴡᴀʀᴅ Bᴏᴛ
   
