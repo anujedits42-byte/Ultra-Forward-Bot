@@ -13,13 +13,13 @@ from config import Config
 class Translation(object):
   START_TXT = """Hey {}
 
-➻ I Am A Advanced Auto Forward Bot
+➻ I Aᴍ A Aᴅᴠᴀɴᴄᴇᴅ Aᴜᴛᴏ Fᴏʀᴡᴀʀᴅ Bᴏᴛ
   
-➻ I Can Forward All Message From One Channel To Another Channel 
+➻ I Cᴀɴ Fᴏʀᴡᴀʀᴅ Aʟʟ Mᴇssᴀɢᴇ Fʀᴏᴍ Oɴᴇ Cʜᴀɴɴᴇʟ Tᴏ Aɴᴏᴛʜᴇʀ Cʜᴀɴɴᴇʟ 
   
-➻ Click Help Button To Know More About Me
+➻ Cʟɪᴄᴋ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Kɴᴏᴡ Mᴏʀᴇ Aʙᴏᴜᴛ Mᴇ
   
-<b>Bot Is Made By <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
+<b>Bᴏᴛ Iꜱ Mᴀᴅᴇ Bʏ <a href='https://t.me/anujedits76'>Aɴᴜᴊ Kᴜᴍᴀʀ</a>
 """
 
 
@@ -58,7 +58,7 @@ class Translation(object):
 <b>📢 Channel :</b> <a href='https://t.me/log_channel_a'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 
-<b>♻️ Bot Made By : <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
+<b>♻️ Bᴏᴛ Iꜱ Mᴀᴅᴇ Bʏ : <a href='https://t.me/anujedits76'>Aɴᴜᴊ Kᴜᴍᴀʀ</a>
 """
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
