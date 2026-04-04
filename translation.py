@@ -54,7 +54,7 @@ class Translation(object):
 ► __Then Use /forward To Forward Messages__"""
 Messages__"""
 
-    FROM_MSG = "<b><u>Set Source Chat</u></b>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
+    
   
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
@@ -76,7 +76,7 @@ Messages__"""
   
     HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
 
-    FROM_MSG = "<b><u>Set Source Chat</></>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
+    FROM_MSG = "<b><u>Set Source Chat</u></b>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
     TO_MSG = "<b><u>Choose Target Chat</u></b>\n\nChoose Your Target Chat From The Given Buttons.\n/cancel - To Cancel This Process"
     SKIP_MSG = "<b><u>Set Message Skiping Number</u></b>\n\nSkip The Message As Much As You Enter The Number And The Rest Of The Message Will Be Forwarded\nDefault Skip Number = <code>0</code>\n<code>eg: You Enter 0 = 0 Message Skiped\nYou Enter 5 = 5 Message Skiped</code>\n/cancel - To Cancel This Process"
     CANCEL = "Process Cancelled Succefully !"
