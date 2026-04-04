@@ -53,6 +53,7 @@ class Translation(object):
 ► __If The **From Channel** Is Private Your Userbot Must Be Member In There Or Your Bot Must Need Admin Permission In There Also__
 ► __Then Use /forward To Forward Messages__"""
 Messages__"""
+
     FROM_MSG = "<b><u>Set Source Chat</u></b>\n\nForward The Last Message Or Last Message Link Of Source Chat.\n/cancel - To Cancel This Process"
   
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
