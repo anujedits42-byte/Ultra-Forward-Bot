@@ -19,7 +19,7 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By </b> <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
+<b>Bot Is Made By <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 """
 
 
@@ -58,7 +58,7 @@ class Translation(object):
 <b>📢 Channel :</b> <a href='https://t.me/log_channel_a'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 
-<b>♻️ Bot Made By :</b> <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
+<b>♻️ Bot Made By : <a href='https://t.me/anujedits76'>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a>
 """
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
