@@ -12,7 +12,7 @@ from config import Config
 
 class Translation(object):
 
-  PHOTO_URL = "https://files.catbox.moe/b6vtfh.jpg"
+  PHOTO_URL = "https://image.zaw-myo.workers.dev/image/c910e030-0067-4855-bd39-4dffb60780ca"
   
   START_TXT = """Hᴇʏ {}
 
