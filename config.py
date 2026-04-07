@@ -18,7 +18,7 @@ class Config:
     OWNER_ID = [int(id) for id in os.environ.get("OWNER_ID", '7892805795').split()]
 
      # Ensure PORT is an integer for Gunicorn/Web server
-    PORT = int(environ.get('PORT', '5000'))
+    PORT = int(os.environ.get('PORT', '5000'))
 
 
 class temp(object): 
