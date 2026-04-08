@@ -8,4 +8,4 @@ gunicorn app:app --bind 0.0.0.0:$PORT --daemon --worker-class gevent --workers 1
 # Start the Telegram Bot
 # Based on your structure, ensure this is the main entry point
 echo "Starting Bot..."
-python3 main.py
+python3 app.py
